@@ -2,7 +2,7 @@ import java.util.List;
 import java.io.FileReader;
 import java.io.BufferedReader;
 import java.util.Arrays;
- 
+
 public class GedcomReader 
 {         
 	public static void main(String[] args)
